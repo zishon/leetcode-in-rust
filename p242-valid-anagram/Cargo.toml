@@ -1,0 +1,9 @@
+[package]
+name = "p242-valid-anagram"
+version = "0.1.0"
+authors = ["zhixiong.zhu <zhixiong.zhu@qq.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
